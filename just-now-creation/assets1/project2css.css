@@ -79,7 +79,7 @@ body{
     align-items: center;
 }
 .header .nav ul li{
-    margin: 10px;
+    /* margin: 10px; */
      padding-left: 10px;
      list-style: none;
      
